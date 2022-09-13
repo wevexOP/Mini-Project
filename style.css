@@ -11,9 +11,9 @@
 /*Styling the color of the body*/
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+    font-family: 'Monaco', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f5130f;
+    color: #352b2b;
 }
 /*Specifying the fonts and font colors used on the webpage.*/
 .header h1 {
@@ -55,7 +55,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./assets/images/digital-marketing-meeting.jpg");
+    background-image: url("./assets/black-ops-zombies-ascension-e1566815803176.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -140,7 +140,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #f4190d;
     color: #ffffff;
 }
 /*Card specs for SEO*/
@@ -149,7 +149,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #e81010;
     color: #ffffff;
 }
 /*Card specs for online rep mngmnt*/
@@ -158,7 +158,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #f81c08;
     color: #ffffff;
 }
 /*Card specs for Social Media Marketing 'SMM'.*/
